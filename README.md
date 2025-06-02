@@ -1,8 +1,5 @@
 # MindTrack – Dysgraphia Detection Using Deep Learning
 
-![MindTrack Cover Image](https://via.placeholder.com/900x300.png?text=MindTrack+-+Dysgraphia+Detection)  
-<!-- Replace the URL above with your actual cover image -->
-
 ---
 
 ## 🚀 Project Overview
